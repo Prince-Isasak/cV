@@ -1,0 +1,468 @@
+body
+{
+    margin: 0 auto;
+}
+section
+{
+    padding: 45px 0 80px 0;
+}
+.heading
+{
+    text-align: center;
+}
+
+/*NAV-BAR*/
+
+.white-divider
+{
+    height: 5px;
+    background: #4EE408;
+    margin: 0 auto;
+}
+
+.igs-bar
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: #FEB054;
+    height: 35px;
+    padding-top: 15px;
+    list-style: none;
+}
+.a-nav-bar
+{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 13px;
+    margin-right: 10px;
+}
+
+/* ABOUT */
+
+#about
+{
+    padding-top: 50px;
+    margin: 20px 50px;
+    padding-bottom: 50px;
+    background: #FEB054;
+}
+.profil-img
+{
+    text-align: center;
+}
+.photo
+{
+    height: 200px;
+    border-radius: 50%;
+}
+
+.igs-h1
+{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.igs-h3
+{
+    font-size: 20px;
+    font-weight: bold;
+}
+.button1
+{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+    border: 2px solid white;
+    margin-top:  20px;
+    padding: 10px 30px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+.button1:hover
+{
+    background: white;
+    color: green;
+    text-decoration: none;
+}
+
+/*DIPLOME*/
+
+
+.line-red
+{
+    width:100px;
+    height: 2px;
+    background: #255F0B;
+    margin: 0 auto;
+}
+.igs-h2
+{
+    text-transform: uppercase;
+    color: #255F0B;
+    padding-bottom: 20px;
+}
+.school
+{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 50px 20px 50px;
+}
+.lycee
+{
+    padding: 0px 30px 0px 30px;
+    height: 250px;
+    background-color: #4EE408;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.im-chap
+{
+    margin: 0 auto;
+}
+.p1
+{
+    text-align: center;
+}
+.my-h3
+{
+    text-align: center;
+    color: #B86A0E;
+}
+.my-h4
+{
+    text-align: center;
+}
+.p
+{
+    padding-left: 50px;
+    font-weight: bold;
+}
+.universite
+{
+    padding: 0px 30px 0px 30px;
+    height: 250px;
+    background-color: #4EE408;
+    border-radius: 5px;
+}
+.pU
+{
+    font-weight: bold;
+    text-align: center;
+    font-size: 15px;
+}
+
+.today
+{
+    margin: 0 auto;
+    width: 400px;
+    height: 250px;
+    background-color: #4EE408;
+    border-radius: 5px;
+}
+.pA
+{
+    text-align: center;
+    padding-top: 20px;
+}
+.pR
+{
+    font-weight: bold;
+    padding-left: 50px;
+}
+
+/*COMPETENCE*/
+
+#competences
+{
+    background-color: #4EE408;
+}
+.line-org
+{
+    width:100px;
+    height: 2px;
+    background: #B86A0E;
+    margin: 0 auto;
+}
+
+.igs-h2-comp
+{
+    text-transform: uppercase;
+    color: #255F0B;
+    padding-bottom: 20px;
+    color: #B86A0E;
+}
+
+.compt1
+{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.html-sous
+{
+    display: flex;
+    background-color: white;
+    height: 45px;
+    width: 500px;
+}
+.html
+{
+    background-color: #B86A0E;
+    height: 45px;
+    width: 360px;
+
+}
+.igs-h4
+{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 13px;
+    color: white;
+    font-size: 14px;
+}
+.boost-sous
+{
+    display: flex;
+    background-color: white;
+    height: 45px;
+    width: 500px;
+   margin-left: 10px;
+}
+.boost
+{
+    background-color: #B86A0E;
+    height: 45px;
+    width: 340px;
+}
+.css-sous
+{
+    display: flex;
+    background-color: white;
+    height: 45px;
+    width: 500px;
+}
+.css
+{
+    background-color: #B86A0E;
+    height: 45px;
+    width: 360px;
+}
+.ms-sous
+{
+    display: flex;
+    background-color: white;
+    height: 45px;
+    width: 500px;
+    margin-left: 10px;
+}
+.ms
+{
+    background-color: #B86A0E;
+    height: 45px;
+    width: 400px;
+}
+.js-sous
+{
+    display: flex;
+    background-color: white;
+    height: 45px;
+    width: 500px;
+}
+.js
+{
+    background-color: #B86A0E;
+    height: 45px;
+    width: 250px;
+}
+.mk-sous
+{
+    display: flex;
+    background-color: white;
+    height: 45px;
+    width: 500px;
+    margin-left: 10px;
+}
+.mk
+{
+    background-color: #B86A0E;
+    height: 45px;
+    width: 340px;
+    
+}
+.ca-sous
+{
+    display: flex;
+    background-color: white;
+    height: 45px;
+    width: 500px;
+    
+}
+.ca
+{
+    background-color: #B86A0E;
+    height: 45px;
+    width: 300px;
+    
+}
+.ph-sous
+{
+    display: flex;
+    background-color: white;
+    height: 45px;
+    width: 500px;
+    margin-left: 10px;
+
+}
+.ph
+{
+    background-color: #B86A0E;
+    height: 45px;
+    width: 250px;
+}
+
+
+/*EXPERIENCE*/
+
+
+.line-red
+{
+    width:100px;
+    height: 2px;
+    background: #B86A0E;
+    margin: 0 auto;
+}
+
+.igs-h2
+{
+    text-transform: uppercase;
+    color: #B86A0E;
+    padding-bottom: 20px;
+}
+.exp
+{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 60px 0px 0px;
+}
+.dev
+{
+    width: 400px;
+    height: 250px;
+    background-color: #B86A0E;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+.h3-dev
+{
+    color: white;
+    padding-left: 20px ;
+}
+.h4-dev
+{
+    color: white;
+    text-align: center;
+}
+.p-dev
+{
+    font-weight: bold;
+    text-align: center;
+}
+.ben
+{
+    width: 400px;
+    height: 250px;
+    background-color: #B86A0E;
+    border-radius: 5px;
+    margin-top: 200px;
+}
+
+.actv
+{
+    width: 400px;
+    height: 250px;
+    background-color: #B86A0E;
+    border-radius: 5px;
+    margin-left: 120px;
+}
+.h3-act
+{
+    color: white;
+    padding-left: 20px ;
+    padding-top: 20px;
+}
+.h4-act
+{
+    color: white;
+    text-align: center;
+}
+.p-act
+{
+    font-weight: bold;
+    text-align: center;
+}
+
+/*RECOMMANDATION*/
+
+#recommandations
+{
+    background-color: #4EE408;
+}
+
+.line-red
+{
+    width:100px;
+    height: 2px;
+    background: #B86A0E;
+    margin: 0 auto;
+}
+#for
+{
+   text-align: center;
+}
+input
+{
+    height: 30px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+.comment
+{
+     height: 80px;
+     width: 350px;
+}
+.btn
+{
+    
+}
+.bnt-eny
+{
+    background-color: #FEB054;
+     padding: 10px 40px;
+    color: white;
+}
+
+/*FOOTER*/
+#my-foot
+{
+    background: #000000B2;
+    padding: 20px 0 40px;
+}
+.igs-h5
+{
+    padding-top: 15px;
+    font-size: 12px;
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
